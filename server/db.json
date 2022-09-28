@@ -1,0 +1,80 @@
+{
+  "senders": [
+    {
+      "id": 2,
+      "name": "Maria",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 3,
+      "name": "Tristan",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 4,
+      "name": "clau",
+      "dni": "78945612",
+      "phone": "987654321"
+    }
+  ],
+  "consignees": [
+    {
+      "id": 1,
+      "name": "Belen",
+      "dni": "10203040",
+      "phone": "998899988",
+      "address": "Av. Universitaria"
+    },
+    {
+      "id": 2,
+      "name": "Lucia",
+      "dni": "10203040",
+      "phone": "998899988",
+      "address": "Av. Antunez de Mayolo"
+    },
+    {
+      "id": 3,
+      "name": "Andrea",
+      "dni": "10203040",
+      "phone": "998899988",
+      "address": "Jiron Huanuco"
+    }
+  ],
+  "Destinations": [
+    {
+      "id": 1,
+      "name": "Abancay"
+    },
+    {
+      "id": 2,
+      "name": "Cajamarca"
+    },
+    {
+      "id": 3,
+      "name": "Lima"
+    },
+    {
+      "id": 4,
+      "name": "Cusco"
+    },
+    {
+      "id": 5,
+      "name": "Apurimac"
+    },
+    {
+      "id": 6,
+      "name": "Piura"
+    }
+  ],
+  "shipping": [
+    {
+      "id": 1,
+      "date": "12/04/2022",
+      "weight": "4.8",
+      "quantity": 1,
+      "freight": 15
+    }
+  ]
+}
